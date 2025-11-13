@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1762979848 source:h:\meu drive\programação de computadores i\trabalhojogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<raylib.h>
+
+1762877649 c:\users\windows\downloads\raylib\raylib-master\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
